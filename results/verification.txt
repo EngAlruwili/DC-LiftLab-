@@ -1,0 +1,13 @@
+test_energy_balance_and_limits (test_physics.PhysicsChecks.test_energy_balance_and_limits) ... ok
+test_export_loss_fallback (test_physics.PhysicsChecks.test_export_loss_fallback) ... ok
+test_fair_trajectory_and_recovery (test_physics.PhysicsChecks.test_fair_trajectory_and_recovery) ... ok
+test_four_quadrant_benchmark (test_physics.PhysicsChecks.test_four_quadrant_benchmark) ... ok
+test_gravitational_reference (test_physics.PhysicsChecks.test_gravitational_reference) ... ok
+test_lecture_example_independent (test_physics.PhysicsChecks.test_lecture_example_independent) ... ok
+test_steady_load_torque (test_physics.PhysicsChecks.test_steady_load_torque) ... ok
+test_timestep_convergence (test_physics.PhysicsChecks.test_timestep_convergence) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 2.899s
+
+OK
